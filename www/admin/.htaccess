@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Admin Panel"
+AuthUserFile C:/localhost/home/Market/www/admin/.htadminpanel
+Require valid-user
